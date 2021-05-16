@@ -1,2 +1,4 @@
 # expense-tracker
-Expense tracker app using React's context api  ; src : https://youtu.be/XuFDcZABiDQ
+expense tracker app . tryin to learn React's context API .
+noob level stuff
+@ghost

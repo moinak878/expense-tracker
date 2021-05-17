@@ -12,5 +12,6 @@ original Javascipt repo : https://github.com/bradtraversy/vanillawebprojects/tre
 #To learn 
 
 1. useContext
-2. UseRef
-3. Styled components  
+2. UseReducer
+3. UseRef
+4. Styled components  

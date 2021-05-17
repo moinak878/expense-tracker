@@ -4,12 +4,12 @@ noob level stuff
 :ghost:
 
 
-#...
+# ...
 
 original Javascipt repo : https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker
 
 
-#To learn 
+# To learn 
 
 1. <strike>useContext</strike>
 2. <strike>UseReducer</strike>
@@ -17,5 +17,5 @@ original Javascipt repo : https://github.com/bradtraversy/vanillawebprojects/tre
 4. Styled components
 
 
-#Next steps
+# Next steps
 implement backend using Node

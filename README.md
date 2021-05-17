@@ -15,3 +15,7 @@ original Javascipt repo : https://github.com/bradtraversy/vanillawebprojects/tre
 2. <strike>UseReducer</strike>
 3. UseRef
 4. Styled components
+
+
+#Next steps
+implement backend using Node
